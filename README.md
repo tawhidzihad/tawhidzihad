@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Frameworks & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,vite,react,redux,nextjs,nodejs,express,netlify,npm,git,github,linux,sass,figma,postman,photoshop,illustrator,xd&perline=11" />
 </p>
