@@ -1,10 +1,14 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tawhidzihad)
 
-<img width="4950" height="1238" alt="LinkedIn Cover" src="https://github.com/user-attachments/assets/fdaffe31-e173-47e7-accc-43468fda3da0" />
+<img width="1584" height="396" alt="LinkedIn Cover Photo" src="https://github.com/user-attachments/assets/5d6fdd39-dc0a-4c46-aeb5-284dd09b7e90" />
 
+<br/>
+<br/>
 
-## Hi there, I'm Tawhidul
+<p href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=7D6CF7&center=true&vCenter=true&width=435&lines=Hello%2C+There!++%F0%9F%91%8B;I'm+Tawhidul+Islam+.+.+.;Nice+to+meet+you!" alt="Typing SVG" /></p>
 
+<br/>
+<br/>
 
 
 **tawhidzihad/tawhidzihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
