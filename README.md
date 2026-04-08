@@ -1,6 +1,12 @@
-## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tawhidzihad)
 
-<!--
+<img width="4950" height="1238" alt="LinkedIn Cover" src="https://github.com/user-attachments/assets/fdaffe31-e173-47e7-accc-43468fda3da0" />
+
+
+## Hi there, I'm Tawhidul
+
+
+
 **tawhidzihad/tawhidzihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
