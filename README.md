@@ -8,6 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tawhidzihad1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t.z.tawhidzihad) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TN_EARNING_2021) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/837324041177399316) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tawhidgift@gmail.com) 
 
 
@@ -52,22 +53,8 @@
 
   <br>
   
-  [![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=46&link=https%3A%2F%2Fwa.me%2Fqr%2F426FHJPMBDXZB1)](https://wa.me/qr/426FHJPMBDXZB1)
-  [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=44&link=tawhidgift%40gmail.com)](mailto:tawhidgift@gmail.com)
+  [![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=46&link=https%3A%2F%2Fwa.me%2Fqr%2F426FHJPMBDXZB1)](https://wa.me/qr/426FHJPMBDXZB1) 
+   [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=44&link=tawhidgift%40gmail.com)](mailto:tawhidgift@gmail.com) 
+  [![discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=46&animationDuration=5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F837324041177399316)](https://discordapp.com/users/837324041177399316)
+
 </div>
-
-
-<!--
-**tawhidzihad/tawhidzihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
