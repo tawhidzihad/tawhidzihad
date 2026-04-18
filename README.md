@@ -1,7 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tawhidzihad)
 
-<img width="1584" height="396" alt="LinkedIn Cover Photo" src="https://github.com/user-attachments/assets/5d6fdd39-dc0a-4c46-aeb5-284dd09b7e90" />
-
 <h1 href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=7D6CF7&center=true&vCenter=true&width=435&lines=Hello%2C+There!++%F0%9F%91%8B;I'm+Tawhidul+Islam.+.+.;Nice+to+meet+you!" alt="Typing SVG" /></h1>
 
 <h4 align="center">I am a Front End Web Developer 👋 | Who focuses on making functional, responsive, and user-friendly websites 🌏 | Expert in JavaScript, React, NEXT.JS, Redux, Tailwind CSS, and Modern Web Technologies. Aspiring Full-Stack Developer, growing every day as a backend developer</h4>
