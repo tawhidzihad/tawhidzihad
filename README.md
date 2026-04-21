@@ -26,12 +26,12 @@
 
 <br>
 
-## Programming Languages
+## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 <br>
 
-## Library & Framework
+## Libraries & Frameworks
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,express,nodejs,tailwind,materialui" />
 
 <br>
@@ -42,7 +42,7 @@
 <br>
 
 ## Tools 
-<img src="https://skillicons.dev/icons?i=vite,npm,git,github,linux,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,vite,npm,git,github,linux,postman" />
 
 <br>
 
