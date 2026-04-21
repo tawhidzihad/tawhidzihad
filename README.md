@@ -27,12 +27,12 @@
 <br>
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs" />
 
 <br>
 
 ## Libraries & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,express,nodejs,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,express,tailwind,materialui" />
 
 <br>
 
