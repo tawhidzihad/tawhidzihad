@@ -9,15 +9,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t.z.tawhidzihad) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TN_EARNING_2021) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/837324041177399316) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tawhidgift@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtawhidulislamzihad39@gmail.com) 
 
 
 ## My Current Status!
-- I'm currently working on **NEXT.JS Project**
+- I'm currently working on **GenX**
 
-- I'm currently learning **NEXTJS**
+- I'm currently learning **ZIG**
 
-- How to reach me **tawhidgift@gmail.com**
+- How to reach me **mdtawhidulislamzihad39@gmail.com**
 
 <br>
 
@@ -54,7 +54,7 @@
   <br>
   
   [![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=46&link=https%3A%2F%2Fwa.me%2Fqr%2F426FHJPMBDXZB1)](https://wa.me/qr/426FHJPMBDXZB1) 
-   [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=44&link=tawhidgift%40gmail.com)](mailto:tawhidgift@gmail.com) 
+   [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=44&link=tawhidgift%40gmail.com)](mailto:mdtawhidulislamzihad39@gmail.com) 
   [![discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=46&animationDuration=5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F837324041177399316)](https://discord.com/users/837324041177399316)
 
 </div>
