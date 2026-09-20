@@ -13,9 +13,9 @@
 
 
 ## My Current Status!
-- I'm currently working on **GenX**
+- I'm currently working on **Yoibi**
 
-- I'm currently learning **ZIG**
+- I'm currently learning **Software Architecture**
 
 - How to reach me **mdtawhidulislamzihad39@gmail.com**
 
